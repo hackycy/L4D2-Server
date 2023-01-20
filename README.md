@@ -8,6 +8,7 @@
 - [血量显示Infected Health Gauge](https://forums.alliedmods.net/showthread.php?p=1167221)
 - [切换角色Character Select Menu](https://forums.alliedmods.net/showthread.php?t=107121)
 - [无限火力Infinite Ammo](https://forums.alliedmods.net/showthread.php?t=123100)
+- [多人BUG修复Left-4-fix](https://github.com/LuxLuma/Left-4-fix)
 
 # MOD
 
