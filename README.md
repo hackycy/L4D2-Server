@@ -9,6 +9,8 @@
 - [切换角色Character Select Menu](https://forums.alliedmods.net/showthread.php?t=107121)
 - [无限火力Infinite Ammo](https://forums.alliedmods.net/showthread.php?t=123100)
 - [多人BUG修复Left-4-fix](https://github.com/LuxLuma/Left-4-fix)
+- [激光+夜视Laser that never sucks](https://forums.alliedmods.net/showthread.php?p=2639383)
+- [VIP Core](https://github.com/R1KO/VIP-Core)
 
 # MOD
 
