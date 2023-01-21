@@ -11,6 +11,8 @@
 - [多人BUG修复Left-4-fix](https://github.com/LuxLuma/Left-4-fix)
 - [激光+夜视Laser that never sucks](https://forums.alliedmods.net/showthread.php?p=2639383)
 - [VIP Core](https://github.com/R1KO/VIP-Core)
+- [Restart Empty Server (or Map)](https://forums.alliedmods.net/showthread.php?t=315367)
+- [Map changer with rating system](https://forums.alliedmods.net/showthread.php?t=311161)
 
 # MOD
 
