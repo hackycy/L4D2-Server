@@ -25,3 +25,5 @@
 - [成就指南](https://steamcommunity.com/sharedfiles/filedetails/?id=1353897735)
 - [三方图c4code](https://pan.c4code.cn:9185/share/rU503ioM)
 - [望夜插件整合](https://bbs.3dmgame.com/thread-4920489-1-1.html)
+- [L4D1_2-Plugins](https://github.com/fbef0102/L4D1_2-Plugins)
+- [L4D2-Plugins](https://github.com/fbef0102/L4D2-Plugins)
