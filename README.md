@@ -3,6 +3,25 @@
 - [Window搭建教学](https://github.com/fbef0102/Game-Private_Plugin/tree/main/Tutorial_教學區/Chinese_繁體中文/Server/安裝伺服器與插件)
 - [Linux搭建教学](https://www.bilibili.com/read/cv16824745/)
 
+# kick banned
+
+SRCDS store temporary and permanent bans in memory.
+- You can check with server commands listid, listip.
+
+SRCDS write only permanent bans in banned_user.cfg, banned_ip.cfg files, when you use command writeid, writeip.
+
+When SRCDS shutdown or reboot, all bans disappear from memory. If you like permanent bans back to server memory,
+you need execute ban files, exec banned_user.cfg, exec banned_ip.cfg
+
+To keep temporary bans active after server reboot, you need mod/plugins for this. SRCDS not save these.
+
+To unban, use commands removeid, removeip.
+Use either removeid "STEAMID" or index number from listid list (ex. removeid 3).
+Same in IP addresses (removeip).
+After unban, you should also use commands writeid, writeip to update permanent files.
+
+This above is SRCDS own ban system.
+
 # 插件
 
 - [血量显示Infected Health Gauge](https://forums.alliedmods.net/showthread.php?p=1167221)
