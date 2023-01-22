@@ -13,6 +13,7 @@
 - [VIP Core](https://github.com/R1KO/VIP-Core)
 - [Restart Empty Server (or Map)](https://forums.alliedmods.net/showthread.php?t=315367)
 - [Map changer with rating system](https://forums.alliedmods.net/showthread.php?t=311161)
+- [Vote Manager 3](https://forums.alliedmods.net/showthread.php?t=170445)
 
 # MOD
 
